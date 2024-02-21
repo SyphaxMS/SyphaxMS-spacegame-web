@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/syphaxOrg/Space%20Game%20Web/_apis/build/status%2Fmslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/syphaxOrg/Space%20Game%20Web/_build/latest?definitionId=54&branchName=main)
 
 # Contributing
 
